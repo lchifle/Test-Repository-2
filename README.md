@@ -2,4 +2,4 @@
 
 # Welcome to repository 2  
 
-This text was added locally through branch-1.
+This text was added locally.
